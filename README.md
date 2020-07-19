@@ -1,7 +1,7 @@
 
 ### Hello 👋, I'm [Imanol](https://github.com/FranciscoImanolSuarez)
 I'm a Student at [Platzi](https//platzi.com) 🛸 </br>
-I'm a **📚Computer Science Student  👨🏽‍💼 [@UNPSJB](http://www.ing.unp.edu.ar/)** in Trelew Chubut Patagonia Argentina.
+I'm a **📚Computer Science Student  👨🏽‍💼 [@UNPSJB](http://www.ing.unp.edu.ar/)** in Trelew Chubut Patagonia Argentina.</br>
 I'm a **Frontend Developer / Web developer**
 
 In addition to Programming, I like photography and share knowledge on [YouTube](https://www.youtube.com/channel/UCertEEQ8ghoqx16Og_B27Zg/featured?view_as=subscriber) and [Instagram](https://www.instagram.com/inl_ab/).
