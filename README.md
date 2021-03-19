@@ -1,6 +1,6 @@
 
 ### Hello 👋, I'm [Imanol](https://github.com/FranciscoImanolSuarez)
-Currently working on [Brocoli](https://github.com/FranciscoImanolSuarez/brocoli) 
+Currently working on [Brocoli](https://github.com/FranciscoImanolSuarez/brocoli) </br>
 I'm a Student at [Platzi](https//platzi.com) 🛸 </br>
 I'm a **📚Computer Science Student  👨🏽‍💼 [@UNPSJB](http://www.ing.unp.edu.ar/)** in Trelew Chubut Patagonia Argentina.</br>
 I'm a **Frontend Developer**
