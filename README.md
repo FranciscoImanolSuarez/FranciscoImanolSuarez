@@ -1,9 +1,10 @@
 
 ### Hello 👋, I'm [Imanol](https://github.com/FranciscoImanolSuarez)
+Full Stack Developer | Community Organizer </br>
 Tutor at Coderhouse </br>
-I'm a Google Developer Student Clubs LEAD  </br>
+I'm a Women Techmakers Ambassadors, GDG Organizer and Google Developer Student Clubs LEAD </br>
 I'm a **📚Computer Science Student  👨🏽‍💼 [Universidad Siglo 21](https://21.edu.ar/)** in Trelew Chubut Patagonia Argentina.</br>
-I'm a **Frontend Developer**
+
 
 
 In addition to Programming, I like photography and share knowledge on [YouTube](https://www.youtube.com/channel/UCertEEQ8ghoqx16Og_B27Zg/featured?view_as=subscriber) and [Instagram](https://www.instagram.com/inl_ab/).
